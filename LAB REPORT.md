@@ -1,6 +1,6 @@
 # Determining the Cryoscopic Constant of Water
 Link to view detailed Lab Report:
-https://uofwaterloo-my.sharepoint.com/:f:/g/personal/d77shah_uwaterloo_ca/ElCfgMEF80ZIr6BYST82mtEB8HnpPUTVlxQIMKk6IF-WDA?e=C3yoEl
+https://drive.google.com/drive/folders/14XwSWcoZOLO0r_6z_JC6sYhNaJOEV5I2?usp=sharing
 
 
 ## Determining Salt concentration for the brine mixture
